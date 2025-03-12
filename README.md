@@ -60,7 +60,7 @@ Most of them are encoded - I think they were exported from Blender. Some are raw
 
 ![tall_triangle](./previews/tall_triangle.png)
 
-## [`teapot.stl`]([link](https://users.cs.utah.edu/~dejohnso/models/teapot.stl)) (Text)
+## [`teapot.stl`](https://users.cs.utah.edu/~dejohnso/models/teapot.stl) (Text)
 
 ![teapot](./previews/teapot.png)
 
