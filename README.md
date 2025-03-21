@@ -64,7 +64,11 @@ Most of them are encoded - I think they were exported from Blender. Some are raw
 
 ![teapot](./previews/teapot.png)
 
-## [`tetrahedron.stl`](https://raw.githubusercontent.com/jannerm/o2p2/refs/heads/master/assets/stl/tetrahedron.stl)
+## [`tetrahedron_flat_top.stl`](https://raw.githubusercontent.com/jannerm/o2p2/refs/heads/master/assets/stl/tetrahedron.stl)
+
+![tetrahedron_flat_top](./previews/tetrahedron_flat_top.png)
+
+## [`tetrahedron.stl`](https://www.printables.com/model/263702-tetrahedron-openscad/files)
 
 ![tetrahedron](./previews/tetrahedron.png)
 
