@@ -16,9 +16,21 @@ I also add more segments for some primitives when exporting from Blender. For ex
 
 ## 2. Collected models
 
-## `plane.stl` (ASCII)
+### `plane.stl` (ASCII)
 
 ![plane](./.readme_images/plane.png)
+
+### `circle.stl` (ASCII)
+
+![circle](./.readme_images/circle.png)
+
+### `circle_2res.stl` (ASCII)
+
+![circle_2res](./.readme_images/circle_2res.png)
+
+### `circle_4res.stl` (ASCII)
+
+![circle_4res](./.readme_images/circle_4res.png)
 
 ### [`arch.stl`](https://raw.githubusercontent.com/jannerm/o2p2/refs/heads/master/assets/stl/arch.stl) (Binary)
 
@@ -120,19 +132,19 @@ I also add more segments for some primitives when exporting from Blender. For ex
 
 ![triangle](./.readme_images/triangle.png)
 
-## `monkey.stl` (ASCII)
+### `monkey.stl` (ASCII)
 
 ![monkey](./.readme_images/monkey.png)
 
-## `torus.stl` (ASCII)
+### `torus.stl` (ASCII)
 
 ![torus](./.readme_images/torus.png)
 
-## `torus_2res.stl` (ASCII)
+### `torus_2res.stl` (ASCII)
 
 ![torus_2res](./.readme_images/torus_2res.png)
 
-## `torus_4res.stl` (ASCII)
+### `torus_4res.stl` (ASCII)
 
 ![torus_4res](./.readme_images/torus_4res.png)
 
