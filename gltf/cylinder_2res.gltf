@@ -37,7 +37,7 @@
 		{
 			"bufferView":0,
 			"componentType":5126,
-			"count":384,
+			"count":386,
 			"max":[
 				1,
 				1,
@@ -53,51 +53,51 @@
 		{
 			"bufferView":1,
 			"componentType":5126,
-			"count":384,
+			"count":386,
 			"type":"VEC3"
 		},
 		{
 			"bufferView":2,
 			"componentType":5126,
-			"count":384,
+			"count":386,
 			"type":"VEC2"
 		},
 		{
 			"bufferView":3,
 			"componentType":5123,
-			"count":756,
+			"count":768,
 			"type":"SCALAR"
 		}
 	],
 	"bufferViews":[
 		{
 			"buffer":0,
-			"byteLength":4608,
+			"byteLength":4632,
 			"byteOffset":0,
 			"target":34962
 		},
 		{
 			"buffer":0,
-			"byteLength":4608,
-			"byteOffset":4608,
+			"byteLength":4632,
+			"byteOffset":4632,
 			"target":34962
 		},
 		{
 			"buffer":0,
-			"byteLength":3072,
-			"byteOffset":9216,
+			"byteLength":3088,
+			"byteOffset":9264,
 			"target":34962
 		},
 		{
 			"buffer":0,
-			"byteLength":1512,
-			"byteOffset":12288,
+			"byteLength":1536,
+			"byteOffset":12352,
 			"target":34963
 		}
 	],
 	"buffers":[
 		{
-			"byteLength":13800,
+			"byteLength":13888,
 			"uri":"cylinder_2res.bin"
 		}
 	]
