@@ -4,6 +4,8 @@ height=200
 width=200
 
 main() {
+  cd "$(dirname "$0")" || return "$?"
+
   if ! which openscad > /dev/null 2>&1; then
     echo "\"openscad\" is not installed!"
     return 1
