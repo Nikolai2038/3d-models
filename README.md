@@ -152,13 +152,9 @@ I also add more segments for some primitives when exporting from Blender. For ex
 
 ![70-meter-dish](./.readme_images/70-meter-dish.png)
 
-### [`octahedron.stl`](https://github.com/Nehri/slicing_algorithm/blob/master/octahedron.stl) (ASCII)
+### `octahedron.stl` (ASCII)
 
 ![octahedron.stl](./.readme_images/octahedron.png)
-
-### [`dodecahedron.stl`](https://github.com/Nehri/slicing_algorithm/blob/master/dodecahedron.stl) (ASCII)
-
-![dodecahedron.stl](./.readme_images/dodecahedron.png)
 
 ## 3. Useful resources
 
